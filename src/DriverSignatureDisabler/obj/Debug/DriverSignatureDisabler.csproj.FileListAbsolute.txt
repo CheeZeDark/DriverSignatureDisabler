@@ -1,0 +1,6 @@
+C:\Users\VirusTest\source\repos\DriverSignatureDisabler\DriverSignatureDisabler\bin\Debug\DriverSignatureDisabler.exe.config
+C:\Users\VirusTest\source\repos\DriverSignatureDisabler\DriverSignatureDisabler\bin\Debug\DriverSignatureDisabler.exe
+C:\Users\VirusTest\source\repos\DriverSignatureDisabler\DriverSignatureDisabler\bin\Debug\DriverSignatureDisabler.pdb
+C:\Users\VirusTest\source\repos\DriverSignatureDisabler\DriverSignatureDisabler\obj\Debug\DriverSignatureDisabler.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\DriverSignatureDisabler\DriverSignatureDisabler\obj\Debug\DriverSignatureDisabler.exe
+C:\Users\VirusTest\source\repos\DriverSignatureDisabler\DriverSignatureDisabler\obj\Debug\DriverSignatureDisabler.pdb
